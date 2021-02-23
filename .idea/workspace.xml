@@ -162,7 +162,9 @@
       <option name="presentableId" value="Default" />
       <updated>1613950063797</updated>
       <workItem from="1613950068194" duration="2315000" />
-      <workItem from="1614013206094" duration="6844000" />
+      <workItem from="1614013206094" duration="7015000" />
+      <workItem from="1614080730841" duration="186000" />
+      <workItem from="1614101833504" duration="2411000" />
     </task>
     <task id="LOCAL-00001" summary="install livewire">
       <created>1614014492104</created>
@@ -178,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614014792590</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="livewire select, checkbox,">
+      <created>1614037214407</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614037214407</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +195,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="install livewire" />
-    <option name="LAST_COMMIT_MESSAGE" value="install livewire" />
+    <MESSAGE value="livewire select, checkbox," />
+    <option name="LAST_COMMIT_MESSAGE" value="livewire select, checkbox," />
   </component>
 </project>
